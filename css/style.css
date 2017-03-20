@@ -343,7 +343,7 @@ header .intro-text {
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../) no-repeat center center;
+	background: url(..img/directions_web.jpg) no-repeat center center;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;

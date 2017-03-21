@@ -223,7 +223,7 @@ header .intro-text {
 	display: inline-block;
 	position: relative;
 }
-/*#about .about-img:before {
+#about .about-img:before {
 	display: block;
 	content: '';
 	position: absolute;
@@ -232,7 +232,7 @@ header .intro-text {
 	bottom: 8px;
 	left: 8px;
 	border: 1px solid rgba(255, 255, 255, 0.5);
-}*/
+}
 #about p {
 	line-height: 24px;
 	margin: 15px 0 30px;
@@ -551,7 +551,7 @@ ol.type li a:hover {
 	display: inline-block;
 	position: relative;
 }
-/*#team .thumbnail .team-img:before {
+#team .thumbnail .team-img:before {
 	display: block;
 	content: '';
 	position: absolute;
@@ -560,7 +560,7 @@ ol.type li a:hover {
 	bottom: 8px;
 	left: 8px;
 	border: 1px solid rgba(255, 255, 255, 0.2);
-}*/
+}
 #team .thumbnail .caption {
 	padding-top: 10px;
 }

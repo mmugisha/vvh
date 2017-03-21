@@ -477,7 +477,7 @@ ol.type li a:hover {
 	overflow: hidden;
 	position: relative;
 }
-/*.portfolio-item .hover-bg:before {
+.portfolio-item .hover-bg:before {
 	display: block;
 	content: '';
 	position: absolute;
@@ -486,7 +486,7 @@ ol.type li a:hover {
 	bottom: 6px;
 	left: 6px;
 	border: 1px solid rgba(255, 255, 255, 0.6);
-}*/
+}*
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
